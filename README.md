@@ -16,9 +16,13 @@
 </p>
 -->
 <h1 align=center>🛠 Tech Stack</h1>
-<h3 align=center>:one: Arduino  :two: IR Receiver{TSOP1838}  :three: Wires :four: BreadBoard/ZeroBoard  :five: Ardunio IDE</h3>
-<hr>
-<h2 align=center>Circuit Diagram</h2>
+<h3 align=center>:one: Arduino  :two: Ardunio IDE  :three: IR Receiver{TSOP1838} :four: Wires  :five: BreadBoard/ZeroBoard</h3>
+<br>
+<h1 align=center>⚡ Circuit Diagram</h1>
 <p align="center">
  <img  height= 500 src="https://user-images.githubusercontent.com/85047510/125340405-100c0e80-e370-11eb-949f-17c2c1f61e6c.png">
 </p>
+<br>
+<h1 align=center>🤔 How to use this Code ? </h1>
+<h3 align=left>STEP 1: Download the Library(Zip File).</h3>
+<h3 align=left>STEP 2:</h3>
