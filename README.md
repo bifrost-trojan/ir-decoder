@@ -36,5 +36,5 @@
 
 <br>
 <h2 align=center>⚠️Still facing a Problem⚠️</h2>
-<h3 align=center>Contact in the issue section or drop an email at trojanbifrost@gmail.com</h3>
+<h3 align=center>Contact in the issue section or drop an email at 📧  trojanbifrost@gmail.com</h3>
 <hr>
